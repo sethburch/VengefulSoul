@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88c14be0c8e3b9445bdd0c9704e6fefd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - outlineMat: {instanceID: 0}
+  - defaultMat: {instanceID: 0}
+  - blood: {instanceID: 0}
+  - bloodSplat: {fileID: 8732877423204596401, guid: 410f59daa94350542b5e5ca6ffd9112c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
